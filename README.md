@@ -29,10 +29,15 @@ Submission Date: 11/12/22
 Task:
 -----------------------------------------------------------------------------------------------------
 • Theoretically design an electronic circuit following the problem statement
+
 • Calculate the value of resistors, capacitors, voltage and current sources necessary for your design
+
 • Theoretically calculate the output voltages and currents
+
 • Simulate your circuit using PSPICE circuit simulator and obtain the output voltages and currents 
+
 • Compare the simulated results with the theoretically calculated results
+
 • Analyze your designed circuit for various input conditions
 ======================================================================================================
 
