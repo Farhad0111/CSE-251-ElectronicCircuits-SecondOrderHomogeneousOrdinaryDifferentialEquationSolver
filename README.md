@@ -1,6 +1,9 @@
 ==========================================================================================================
+
 Course Title: Electrical Circuits
+
 Course Code: CSE-251
+
 Project Name: Second order homogeneous Ordinary Differential Equation (with constant coefficient) solver
 
 
